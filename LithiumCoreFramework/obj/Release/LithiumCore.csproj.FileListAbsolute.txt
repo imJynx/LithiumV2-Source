@@ -1,0 +1,2 @@
+C:\Users\cheating\3D Objects\Projects\Lithium-Nuker-2-master\LithiumCoreFramework\obj\Release\LithiumCore.csproj.AssemblyReference.cache
+C:\Users\cheating\3D Objects\Projects\Lithium-Nuker-2-master\LithiumCoreFramework\obj\Release\LithiumCore.csproj.CoreCompileInputs.cache
